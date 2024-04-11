@@ -1,0 +1,16 @@
+{
+    "[python]":{
+        "diffEditor.ignoreTrimWhitespace": false,
+        "gitlens.codeLens.symbolScopes": [
+            "!Module"
+        ],
+        "editor.wordBasedSuggestions": "off",
+        "editor.codeActionsOnSave": {
+        //     "source.organizeImports":"explicit",
+            "editor.defaultFormatter": "charliermarsh.ruff" 
+            
+        },
+        "editor.rulers": [88]
+     
+}
+}
